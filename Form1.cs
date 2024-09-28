@@ -41,9 +41,9 @@ namespace baitaptuan5
                 Form2 frm = new Form2();
                 if (frm.ShowDialog() == DialogResult.OK)
                 {
-                    selectedRow.Cells["col_MaNV"].Value = frm.MaNV;
-                    selectedRow.Cells["col_TenNV"].Value = frm.TenNV;
-                    selectedRow.Cells["col_Luong"].Value = frm.LuongCB;
+                    selectedRow.Cells["Column1"].Value = frm.MaNV;
+                    selectedRow.Cells["Column2"].Value = frm.TenNV;
+                    selectedRow.Cells["Column3"].Value = frm.LuongCB;
 
                     frm.ClearFields();
                 }
