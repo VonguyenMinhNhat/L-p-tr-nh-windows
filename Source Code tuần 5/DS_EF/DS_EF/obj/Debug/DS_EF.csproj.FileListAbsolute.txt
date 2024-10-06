@@ -1,0 +1,15 @@
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\bin\Debug\DS_EF.exe.config
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\bin\Debug\DS_EF.exe
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\bin\Debug\DS_EF.pdb
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\bin\Debug\EntityFramework.dll
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\bin\Debug\EntityFramework.xml
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\obj\Debug\DS_EF.csproj.AssemblyReference.cache
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\obj\Debug\DS_EF.Frm.resources
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\obj\Debug\DS_EF.Properties.Resources.resources
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\obj\Debug\DS_EF.csproj.GenerateResource.cache
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\obj\Debug\DS_EF.csproj.CoreCompileInputs.cache
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\obj\Debug\DS_EF.csproj.Up2Date
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\obj\Debug\DS_EF.exe
+D:\STUDY\LT_WINDOW\DS_EntityFrameWork\DS_EF\DS_EF\obj\Debug\DS_EF.pdb
