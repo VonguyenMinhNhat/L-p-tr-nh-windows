@@ -1,0 +1,15 @@
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\bin\Debug\VoNguyenMinhNhat_2280602222.exe.config
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\bin\Debug\VoNguyenMinhNhat_2280602222.exe
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\bin\Debug\VoNguyenMinhNhat_2280602222.pdb
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\bin\Debug\EntityFramework.dll
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\bin\Debug\EntityFramework.xml
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\obj\Debug\VoNguyenMinhNhat_2280602222.csproj.AssemblyReference.cache
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\obj\Debug\VoNguyenMinhNhat_2280602222.Form1.resources
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\obj\Debug\VoNguyenMinhNhat_2280602222.Properties.Resources.resources
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\obj\Debug\VoNguyenMinhNhat_2280602222.csproj.GenerateResource.cache
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\obj\Debug\VoNguyenMinhNhat_2280602222.csproj.CoreCompileInputs.cache
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\obj\Debug\VoNguyen.CFEF4020.Up2Date
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\obj\Debug\VoNguyenMinhNhat_2280602222.exe
+C:\Users\mrnha\source\repos\VoNguyenMinhNhat_2280602222\VoNguyenMinhNhat_2280602222\obj\Debug\VoNguyenMinhNhat_2280602222.pdb
